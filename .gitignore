@@ -23,3 +23,5 @@ instance/
 
 # Local development configuration
 config.py
+
+.gitignore/
