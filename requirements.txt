@@ -1,0 +1,7 @@
+flask
+flask-httpauth
+joblib
+pandas
+scikit-learn
+textblob
+tweepy
