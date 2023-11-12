@@ -43,7 +43,7 @@ Before running the application, ensure you have the following installed:
 Clone the project repository:
 
 ```bash
-git clone https://github.com/your-username/soccer-prediction-system.git
+git clone https://github.com/mstrmindz/soccer-prediction-system.git
 cd soccer-prediction-system
 ```
 
