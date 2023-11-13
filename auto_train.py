@@ -42,7 +42,7 @@ def analyze_sentiment(text):
 
 def fetch_and_analyze_tweets(api, data):
     for index, row in data.iterrows():
-        team_name = row["TeamName"]
+        team_name = row["Manchester United"]
         tweets = get_tweets(api, team_name)
         sentiments = [analyze_sentiment(tweet) for tweet in tweets]
         average_sentiment = sum(sentiments) / len(sentiments)
